@@ -130,3 +130,5 @@ Lucas Dantas
 ## Observação
 
 Este projeto foi pensado para ser simples, funcional e visualmente limpo, com foco em demonstrar habilidades em frontend, extração de dados de PDF e UX voltada para produtividade.
+
+🔒 Segurança e Conformidade (LGPD): Esta aplicação é Serverless e opera com processamento 100% Client-Side. Os arquivos PDF selecionados são lidos localmente na memória do navegador do usuário através da API FileReader e do pdf.js. Nenhum dado ou arquivo é enviado, transferido ou armazenado em servidores externos ou bancos de dados, garantindo privacidade total das Ordens de Serviço.
